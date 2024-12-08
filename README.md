@@ -30,5 +30,7 @@ cd ultralytics/yolo/v8/detect
 python predict.py model='best.pt' source='demo.mp4'
 
 ```
+## Colab file: https://colab.research.google.com/drive/1Wh5YuomV0hYsS71xnHYet0hyLWhwkEc7?usp=drive_link
 
+## Videos for vid_path: https://drive.google.com/drive/folders/15ZvM3QYAHrWvVViMYApl9xxG-9LecgUZ?usp=drive_link
 
