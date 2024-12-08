@@ -32,16 +32,3 @@ python predict.py model='best.pt' source='demo.mp4'
 ```
 
 
-### RESULTS
-
-#### Fire Detection 
-<p align="center">
-<img src="https://github.com/DucAnhDang/Fire-detect/blob/main/Orange%20Energic%20Modern%20Tips%20How%20to%20Find%20Ideas%20Youtube%20Thumbnail.png">
-</p>
-
-
-
-### Watch the Complete Step by Step Explanation
-
-- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/@Pyresearch/videos)
-
